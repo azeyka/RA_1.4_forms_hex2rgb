@@ -31,4 +31,5 @@
   display: flex;
   border: none;
   outline: none;
+  cursor: pointer;
 }
