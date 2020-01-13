@@ -9,7 +9,7 @@
   position: fixed;
   display: flex;
   align-items: center;
-  align-content: center; 
+  align-content: center;
   justify-content: center;
   flex-direction: column;
 }
@@ -29,8 +29,6 @@
   font-size: 20px;
   color: white;
   display: flex;
-}
-
-.result p {
-  margin: auto;
+  border: none;
+  outline: none;
 }
